@@ -1,5 +1,5 @@
-# ame - angular-made-easy
-### Angular 2, for humans.
+# ame
+## Angular Made Easy (Angular 2, for humans)
 [![Travis-CI Build](https://travis-ci.org/steve-gray/ame.svg?branch=master)](https://travis-ci.org/steve-gray/ame)
 [![Prod Dependencies](https://david-dm.org/steve-gray/ame/status.svg)](https://david-dm.org/steve-gray/ame)
 [![Dev Dependencies](https://david-dm.org/steve-gray/ame/dev-status.svg)](https://david-dm.org/steve-gray/ame#info=devDependencies)

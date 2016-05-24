@@ -1,6 +1,6 @@
 {
   "name": "ame",
-  "version": "2.0.0-beta17.ame3",
+  "version": "2.0.0-beta17.ame4",
   "description": "Angular2 and all dependencies, packaged in a single, easily consumed file.",
   "main": "index.js",
   "scripts": {
