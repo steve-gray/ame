@@ -1,10 +1,6 @@
 language: node_js
 node_js:
 - '6.0'
-- '5.5'
-- '5.2'
-- '4.1'
-- '4.0'
 script: gulp
 
 deploy:
@@ -14,4 +10,4 @@ deploy:
   skip_cleanup: true
   on:
     tags: true
-    node_js: 4.0
+    node_js: 6.0
