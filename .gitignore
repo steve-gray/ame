@@ -1,0 +1,17 @@
+# OS Cruft
+.DS_Store
+thumbs.db
+
+# Temporary
+*.bak
+*.log
+*.tmp
+
+# Build Outputs
+dist
+
+# Node
+node_modules
+
+# NPM Packs
+*.tgz
