@@ -1,5 +1,13 @@
 # ame - angular-made-easy
 ### Angular 2, for humans.
+[![Travis-CI Build](https://travis-ci.org/steve-gray/ame.svg?branch=master)](https://travis-ci.org/steve-gray/ame)
+[![Prod Dependencies](https://david-dm.org/steve-gray/ame/status.svg)](https://david-dm.org/steve-gray/ame)
+[![Dev Dependencies](https://david-dm.org/steve-gray/ame/dev-status.svg)](https://david-dm.org/steve-gray/ame#info=devDependencies)
+[![npm version](https://badge.fury.io/js/ame.svg)](https://badge.fury.io/js/ame)
+
+[![Stats](https://nodei.co/npm/ame.png?downloads=true&downloadRank=true&stars=true)](https://npmjs.com/package/ame)
+[![Downloads](https://nodei.co/npm-dl/ame.png?height=2)](https://npmjs.com/package/ame)
+
 
 ## Why does this Package Exist?
 Angular 2 is great in a whole range of ways, but the _minimal_ examples out there
