@@ -38,7 +38,7 @@ When you are ready to make that transition for your app, I fully encourage you t
 The files in /dist are:
 
   - ame.js (Full/uncompressed versions) - __2.7MB__
-  - ame.dev.js (Dev versions of components) - __ 6MB__
+  - ame.dev.js (Dev versions of components) - __6MB__
   - ame.min.js (Minified versions of code, combined) - __1MB__ (__200KB GZip__)
 
 Approximately 80-85% compression on suitable servers makes these

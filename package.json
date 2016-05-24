@@ -1,6 +1,6 @@
 {
   "name": "ame",
-  "version": "2.0.0-beta17.ame2",
+  "version": "2.0.0-beta17.ame3",
   "description": "Angular2 and all dependencies, packaged in a single, easily consumed file.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,11 @@
   },
   "keywords": [
     "angular",
-    "easy"
+    "angular2",
+    "easy",
+    "bundle",
+    "starter",
+    "kit"
   ],
   "author": "Steve Gray",
   "license": "MIT",
