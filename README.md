@@ -11,7 +11,7 @@
 
 ## Why does this exist?
 Angular 2 is great in a whole range of ways, but the _minimal_ examples out there
-are typically a dozen or more file and require developers to understand and combine many
+are typically a dozen or more files and require developers to understand and combine many
 seperate elements in order to get even the most basic of examples working.
 
 This package is intended to be a cross-browser compatible, simplified distribution of
