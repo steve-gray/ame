@@ -9,7 +9,7 @@
 [![Downloads](https://nodei.co/npm-dl/ame.png?height=2)](https://npmjs.com/package/ame)
 
 
-## Why does this Package Exist?
+## Why does this exist?
 Angular 2 is great in a whole range of ways, but the _minimal_ examples out there
 are typically a dozen or more file and require developers to understand and combine many
 seperate elements in order to get even the most basic of examples working.
@@ -17,11 +17,11 @@ seperate elements in order to get even the most basic of examples working.
 This package is intended to be a cross-browser compatible, simplified distribution of
 Angular 2 and all commonly required dependencies and soften the learning curve.
 
-## Version Following Policy
-We'll try to maintain as close as possible a version parity with Angular 2. My
+## Version Tracking
+I will try to maintain as close as possible a version parity with Angular 2. My
 repository is tracked by the awesome [greenkeeper](http://greenkeeper.io) for
-dependencies, so in theory we'll never be more than a few days out. As we don't
-modify any of our dependencies other than concatenating them, it means that you're
+dependencies, so in theory you'll never be more than a few days out. As this project
+does not modify any of the dependencies other than concatenating them, it means that you're
 able to switch seamlessly away from this library when you're ready.
 
 ## Efficiency vs Simplicity
@@ -39,7 +39,7 @@ The files in /dist are:
 
   - ame.js (Full/uncompressed versions) - __2.7MB__
   - ame.dev.js (Dev versions of components) - __ 6MB__
-  - ame.min.js (Minified versions of code, combined) - __1MB__
+  - ame.min.js (Minified versions of code, combined) - __1MB__ (__200KB GZip__)
 
 Approximately 80-85% compression on suitable servers makes these
 sizes less problematic when starting out on your app development.
